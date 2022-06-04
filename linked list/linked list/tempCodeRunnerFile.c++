@@ -1,0 +1,1 @@
+delItem(head,0);
