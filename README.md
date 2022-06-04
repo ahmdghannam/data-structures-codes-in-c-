@@ -1,5 +1,5 @@
-# data-structures-codes-in-c++ 
-
+# data structures codes in c++ 
+# based on AAUP CSE course 
 code includes these topics 
 * stack 
 * queue 
