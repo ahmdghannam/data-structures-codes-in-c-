@@ -7,4 +7,4 @@ code includes these topics
 * stack in linked list 
 * queue in linked list
 * problems solving about above topics 
-*
+
